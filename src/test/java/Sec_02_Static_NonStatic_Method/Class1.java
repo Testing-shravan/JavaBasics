@@ -6,7 +6,7 @@ public class Class1 {
         {
             // No need to create object for static method We can call directly for main method
 
-               StaticMethod(7,7);
+               StaticMethod(8,8);
 
            // Object must create for non static method then only we can able to call for main method
 
