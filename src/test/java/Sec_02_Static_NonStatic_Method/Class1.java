@@ -11,7 +11,7 @@ public class Class1 {
            // Object must create for non static method then only we can able to call for main method
 
                Class1 obj=new Class1();
-               obj.NonStaticMethod(9,9);
+               obj.NonStaticMethod(5,5);
         }
 
 //  Static Method ---- Used in same class
